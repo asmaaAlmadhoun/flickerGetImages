@@ -1,0 +1,32 @@
+.App{
+  width: 100%;
+  height: 100vh;
+}
+
+.gallery-block{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 9px;
+  max-height: 260px;
+  overflow: hidden;
+}
+
+.gallery-button-like{
+    position: absolute;
+    bottom: 24px;
+    right: 20px;
+}
+.float-right{
+  float: right;
+}
+.float-left{
+  float: left;
+}
+.clear{
+  clear: both;
+}
+
+.custom-list{
+  display: inline-block!important;
+  width: 140px !important;
+  background-color: #6c757d!important;
+  color: white !important;
+}
